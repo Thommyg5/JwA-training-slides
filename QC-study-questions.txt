@@ -1,0 +1,185 @@
+What is Java? Why to use Java?
+What is JRE / JDK / JVM?
+What is an object / class?
+How would you compile and execute a Java program?
+What is the main method signature?
+What is the root class from which every class extends?
+What are the primitive data types in Java?
+What is the difference between String , StringBuilder , and StringBuffer ?
+Where are Strings stored?
+Explain stack vs heap?
+What is the difference between == and .equals() ?
+How to pass multiple values with a single parameter into a method?
+What is the first line of constructor?
+What are the 4 pillars of OOP? Explain each one
+What is the difference between method overloading and overriding?
+Difference between extends and implements?
+What is the difference between an abstract class and an interface?
+What is autoboxing / unboxing?
+What is a wrapper class?
+How can you force garbage collection in Java?
+What are the access and non-access modifiers in Java?
+What is the difference between static and final variables?
+
+What are collections in Java?
+What are the interfaces in the Collections API?
+What is the difference between a Set and a List ?
+What is the difference between a Array and an ArrayList ?
+Are Maps in the Collections API?
+What are generics? What is the diamond operator ( <> )?
+What is an enhanced for loop
+What is the difference between HashTable and HashMap?
+What is the difference between ArrayList and Vector ?
+What is the difference between ArrayList and LinkedList ?
+What is the difference between TreeSet and HashSet ?
+How would you iterate over a Map ?
+Which collections cannot hold null values?
+
+What is base class of all exceptions? What interface do they all implement?
+List some checked and unchecked exceptions?
+Difference between checked and unchecked exceptions?
+What are the different ways of handling checked exceptions?
+What is try-with-resources? 
+What is the difference between final , .finalize() , and finally ?
+throw vs throws
+Do you need a catch block? Can have more than 1? Order of them?
+Multi-catch block - can you catch more than one exception in a single catch block?
+
+What is Maven?
+What is the default Maven build lifecycle?
+Where / when does Maven retrieve dependencies from? Where are they stored locally?
+What is the POM and what is the pom.xml?
+
+
+
+Why test
+Testing principles
+Fundamental test process
+Verification vs Validation
+Testing Lifecycle
+Defect Lifecycle
+Testing documents
+Types of Testing
+Testing Pyramid
+Testing Techniques
+What is Selenium and describe Selenium Family
+Steps to work with Selenium
+What are selenium locators
+What is xpath
+what is Page Object Factory in selenium
+What is BDD, Cucumber and Gherkin
+Gherkin Keywords
+What is a Feature in Cucumber
+Scenario and Scenario Outline
+Explain Given, When and Then
+
+
+
+What is SQL
+How is data structured in a SQL database
+What is an ERD
+What are the different multiplicity relationships
+referential integrity
+What is a cascade delete
+List the integrity constraints
+What is a candidate key? What about a surrogate key?
+What is normalization? What are the levels?
+What are the 5 sublanguages of SQL? List some commands for each
+What is the difference between DELETE, DROP, and TRUNCATE commands
+What are some SQL clauses you can use with SELECT statements?
+What is the difference between WHERE and HAVING?
+Explain what the ORDER BY and GROUP BY clauses do
+What is the difference between joins and set operators?
+What are the types of joins? Explain the differences
+Explain the difference between UNION, UNION ALL, and INTERSECT
+What are the properties a transaction must follow?
+Explain the different isolation levels. What read phenomena do each prevent?
+What is the purpose of a view?
+What is an index?
+What's the difference between a clustered and non-clustered index?
+What is a trigger? Give the syntax for creating a trigger.
+What is the difference between scalar and aggregate functions? Give examples of each
+
+What is JDBC?
+What is a stored procedure and how would you call it in Java?
+What is the difference between Statement and PreparedStatement?
+Steps to executing an SQL query using JDBC?
+What are Singleton / DAO design patterns?
+
+
+
+What is DevOps? What is the goal of various DevOps processes?
+Explain CI/CD. What is the difference between Continuous Deployment and Continuous Delivery?
+What tools have you used to achieve CI/CD? Explain how you’ve setup and used them
+What is a DevOps pipeline? Explain the steps to setting one up
+What is SonarQube / SonarCloud? Explain some of the features of it
+What is a “build”? What is the end result of a build? What is the build tool you’ve used for Java projects?
+What are the Maven lifecycles? List the steps in the build lifecycle
+
+What are the steps in the software development lifecycle?
+What is the difference between Waterfall and Agile methodologies? Explain the benefits and drawbacks of each
+List some of the principles declared in the Agile manifesto
+What specific Agile frameworks exist? What are the main features of each?
+What is the Scrum process? Explain each of the Scrum ceremonies
+How long is a typical sprint?
+What is a “standup” and what should you report about your work?
+What is the role of a “Scrum master” in a project? What about the “Product owner”?
+Explain the following metrics/charts: sprint velocity, burndown chart
+What is a Scrum board? Have you used any software tools for your team’s Scrum board?
+Name some technologies teams can use to keep track of progress on different projects, tasks, and due dates.
+
+What is a container? How is it different from a VM?
+What is the Docker Daemon?
+What is a Docker image? What is a docker Container
+How is a Docker image different from a Docker container?
+What are some  Docker commands?
+What is a container registry? How would you retrieve and upload images to DockerHub?
+What is Docker compose and why is it useful
+If you want to store state for a container, how does Docker recommend doing that
+
+
+
+
+What is JavaScript? What do we use it for?
+Can we run JavaScript in a web browser, on a server, or both?
+What programming paradigm(s) does JS support?
+What are the data types in JS?
+What is the type of NaN? What is the isNaN function?
+What is the data type of a function?
+What is the difference between undefined and null?
+What are JS objects? what is the syntax?
+Use the object literal syntax to create an object with some properties
+What are arrays in JS? can you change their size?
+List some array methods and explain how they work.
+What is JSON? Is it different from JS objects?
+What are some ways you can use functions in JS?
+What are the different scopes of variables in JS?
+What are the different ways to declare global variables?
+Is it a best practice to use global variables? Why or why not?
+If you declare a variable var inside a for loop is that block scoped or function scoped?
+What are callback functions? What about self-invoking functions?
+What is a truthy or falsy value? List the falsy values.
+What is the difference between == and ===? Which one allows for type coercion?
+Explain what “strict mode” does
+What are the naming conventions for a variable used in JavaScript?
+What are the naming conventions for a function used in JavaScript?
+What is function and variable hoisting?
+What is closure and when should you use it?
+What does the "this" keyword refer to?
+Explain the concept of lexical scope
+What is an Immediately Invoked Function Expression?
+What is the difference between var, let, and const keywords?
+template literal
+What’s the difference between a normal function declaration and an arrow function?
+Explain the async/await keywords. Why is it preferred to use this instead of .then() methods?
+What is a promise
+What is the DOM? How is it represented as a data structure? What object in a browser environment allows us to interact with the DOM?
+List some ways of querying the DOM for elements
+How would you insert a new element into the DOM?
+What are event listeners? What are some events we can listen for? What are some different ways of setting event listeners?
+What is bubbling and capturing and what is the difference?
+What is the Fetch API?
+How do you send a Fetch request?
+What is the difference between Fetch and AJAX?
+How would you retreive JSON data from a Fetch request?
+How do you handle a failed request in Fetch?
