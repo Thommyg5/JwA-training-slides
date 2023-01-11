@@ -1,0 +1,140 @@
+SQL
+    
+Revising the Select Query I
+Revising the Select Query II
+Select All
+Select By ID
+Japanese Cities' Attributes
+Japanese Cities' Names
+Higher Than 75 Marks
+Employee Names
+Employee Salaries
+
+
+
+
+Weather Observation Station 1
+Weather Observation Station 3
+Weather Observation Station 4
+Weather Observation Station 5
+Weather Observation Station 6
+Weather Observation Station 7
+Weather Observation Station 8
+Weather Observation Station 9
+Weather Observation Station 10
+Weather Observation Station 11
+Weather Observation Station 12
+
+
+
+Type of Triangle
+The PADS
+Occupations
+Binary Tree Nodes
+New Companies
+
+
+Revising Aggregations - The Sum Function
+Revising Aggregations - Averages
+Average Population
+Japan Population
+Population Density Difference
+The Blunder
+Top Earners
+
+
+
+Joins
+The Report
+Top Competitors
+Ollivander's Inventory
+Challenges
+Contest Leaderboard
+
+
+SQL Project Planning
+Placements
+Symmetric Pairs
+Interviews
+15 Days of Learning SQL
+
+
+
+Java
+    
+simple-array-sum
+diagonal-difference
+2d-array
+CamelCase
+LibraryFine
+New Companies
+Forming a Magic Square
+Staircase
+Queens Attack
+Lego Block
+Bowling Pins 
+
+
+
+DSA
+    
+ARRAYS
+Dynamic Array
+Left Rotation
+Sparse Arrays
+Array Manipulation
+
+
+LINKED LIST
+Insert a Node at the Tail of a Linked List
+Insert a node at the head of a linked list
+Insert a node at a specific position in a linked list
+Delete a Node
+Print in Reverse
+Compare two linked lists
+
+
+Compare two linked lists
+Merge two sorted linked lists
+Get Node Value
+Delete duplicate-value nodes from a sorted linked list
+Cycle Detection
+Find Merge Point of Two Lists
+Inserting a Node Into a Sorted Doubly Linked List
+Reverse a doubly linked list
+
+
+Balanced Brackets
+Equal Stacks
+Game of Two Stacks
+Mini-Max Sum
+Birthday Cake Candles
+Time Conversion
+
+
+Simple Text Editor
+Poisonous Plants
+Waiter
+Climbing the Leaderboard
+Angry Professor
+Extra Long Factorials
+Bigger is Greater
+
+
+Fraudulent Activity Notifications
+Lily's Homework
+Insertion Sort Advanced Analysis
+The Full Counting Sort
+Minimum Loss
+Connected Cells in a Grid
+Count Luck
+
+
+Maximum Subarray Sum
+Maximizing Mission Points
+Highest Value Palindrome
+Maximum Palindromes
+Common Child
+Determining DNA Health
+Count Strings
+
