@@ -138,3 +138,16 @@ Common Child
 Determining DNA Health
 Count Strings
 
+
+
+Other Exercises
+https://github.com/adamranieri/JWA-Activities/tree/master/xpath
+https://github.com/adamranieri/TestAutomation-CAPs/blob/main/bounty-Wiki-Walkthrough.md
+https://github.com/adamranieri/JWA-Activities/blob/master/js-calculator.md
+https://github.com/adamranieri/JWA-Activities/blob/master/MiniApp.md
+https://github.com/adamranieri/JWA-Activities/tree/master/inFormed
+https://github.com/adamranieri/TestAutomation-CAPs/blob/main/bounty-Action-API-Practice.md
+
+
+
+
